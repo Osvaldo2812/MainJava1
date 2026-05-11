@@ -7,10 +7,10 @@ public class Main {
             new Menu("Nasi Padang", 25000, "makanan"),
             new Menu("Ayam Goreng", 20000, "makanan"),
             new Menu("Sate Ayam", 30000, "makanan"),
-            new Menu("Gado-Gado", 15000, "makanan"),
+            new Menu("Soto Ayam", 15000, "makanan"),
             new Menu("Es Teh", 5000, "minuman"),
             new Menu("Jus Jeruk", 10000, "minuman"),
-            new Menu("Kopi Hitam", 8000, "minuman"),
+            new Menu("Es Mactha", 13000, "minuman"),
             new Menu("Air Mineral", 3000, "minuman")
         };
 
